@@ -52,5 +52,5 @@ experience:
 courses and subjects
         
 design:
-columns: '2'
+  columns: '2'
 ---
