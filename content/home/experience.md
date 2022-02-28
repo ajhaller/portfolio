@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Smith McKinley Fellow
+  - title: Senior McKinley Fellow
     company: Smith College
     company_url: 'https://www.smith.edu/'
     company_logo: smith
