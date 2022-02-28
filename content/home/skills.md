@@ -43,4 +43,8 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+design:
+  background:
+    color: 'grey'
 ---
