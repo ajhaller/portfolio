@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Programming Languages
+- description: R, Python
   icon: computer-classic
-  icon_pack: far
-  name: R, Python
+  icon_pack: fab
+  name: Programming Languages
 - description: Tableau, Jupyter Notebook, Microsoft Excel
   icon: chart-line
   icon_pack: fas
