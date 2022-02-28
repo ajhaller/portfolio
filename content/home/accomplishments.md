@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/4R9VZF8LT4RR
+  date_end: "2022-02-01"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: IBM Data Science Specialization
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/XX4P9E84KA8H
+  date_end: "2022-01-01"
+  date_start: ""
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: IBM Data Analyst
+  url: 
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/E437YNB7K49Y
+  date_end: "2022-01-01"
+  date_start: ""
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Google Data Analytics
   url: ""
 
 design:
