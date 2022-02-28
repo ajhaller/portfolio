@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Programming Languages
   icon: computer-classic
-  icon_pack: fas
+  icon_pack: business
   name: R, Python
 - description: Tableau, Jupyter Notebook, Microsoft Excel
   icon: chart-line
