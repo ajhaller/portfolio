@@ -50,4 +50,6 @@ item:
 
 design:
   columns: '2' 
+  background:
+    color: 'Gainsboro'
 ---
