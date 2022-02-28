@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Programming Languages
-  icon: binary
+  icon: computer-classic
   icon_pack: fab
   name: R, Python
 - description: Tableau, Jupyter Notebook, Microsoft Excel
