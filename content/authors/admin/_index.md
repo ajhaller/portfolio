@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Aushanae Haller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Incoming Healthcare Data Analyst Intern at JLL
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Smith College
+  url: https://www.smith.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Senior at Smith College
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical & Data Sciences
+- Psychology
+- Healthcare
+- Education
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: BA: Statistical & Data Sciences Major
+    institution: Smith College
+    year: 2019 - 2023
+  - course: BA: Psychology Major
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019 - 2023
+  - course: AA: Multidisciplinary Studies
+    institution: Houston Community College
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +71,12 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+High School Diploma as Valedictorian and Associate's degree from Houston Community College with Highest Honors, earned both in 2019. Current Senior student at Smith College double-majoring in Statistical & Data Sciences and Psychology, where I am a Statistical & Data Sciences Tutor for 2,600 students; earner of the Google Data Analytics Certification, the IBM Data Analyst Certification, and IBM Data Science Certification
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Experience with data analytic tool Jupyter, visualization tools Tableau & IBM Cognos Analytics; languages Python, R, and SQL; survey tool Qualtrics; and Machine Learning.
+
+Currently aiding Smith College Professors in socio-psychological research and conducting independent research project evaluating the affects of American Corporate Capitalism on Americans' psychology by evaluating COVID-19 data
+
+Looking forward to data science / data analyst real-world opportunities.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
