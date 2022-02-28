@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BA: Statistical & Data Sciences Major
+  - course: BA - Statistical & Data Sciences Major
     institution: Smith College
     year: 2019 - 2023
-  - course: BA: Psychology Major
+  - course: BA - Psychology Major
     institution: Massachusetts Institute of Technology
     year: 2019 - 2023
-  - course: AA: Multidisciplinary Studies
+  - course: AA - Multidisciplinary Studies
     institution: Houston Community College
     year: 2015 - 2019
 
