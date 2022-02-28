@@ -49,7 +49,7 @@ experience:
         * Assisted college students understand new statistical concepts in data science classrooms
         * Provided guidance to explore a variety of ways to create and analyze data visualizations using R, Tableau and Github.
         * Offered one-on-one tutoring to any student for all Statistical and Data Science courses and subjects
-
+        
 design:
   columns: '2'
 ---
