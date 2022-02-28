@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Smith McKinley Fellow
+    company: Smith College
+    company_url: 'https://www.smith.edu/'
+    company_logo: smith
+    location: Northampton, MA
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Highly selective student research fellowship
+        * Independent research project evaluating the affects of American Corporate Capitalism on Americans' psychology by evaluating COVID-19 data
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Statistical & Data Sciences Tutor
+    company: Smith College
+    company_url: 'https://www.smith.edu/'
+    company_logo: smith
+    location: Northampton, MA
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assisted college students understand new statistical concepts in data science classrooms
+        * Provided guidance to explore a variety of ways to create and analyze data visualizations using R, Tableau and Github.
+        * Offered one-on-one tutoring to any student for all Statistical and Data Science
+courses and subjects
+        
 
 design:
   columns: '2'
