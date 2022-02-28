@@ -46,5 +46,5 @@ feature:
 
 design:
   background:
-    color: 'grey'
+    color: 'Gainsboro'
 ---
