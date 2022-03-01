@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: BellaBeat Case Study
+    tag: BellaBeat Case Study
+  - name: A Chance for Forgiveness
+    tag: A Chance for Forgiveness
+  - name: House Sales Case Study
+    tag: House Sales Case Study
+  - name: Applied Data Science Capstone
+    tag: Applied Data Science Capstone
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
