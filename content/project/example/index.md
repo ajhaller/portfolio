@@ -9,7 +9,7 @@ date: "2022-03-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by gustavofrazao - Fotolia
   focal_point: Smart
 
 links:
@@ -48,4 +48,13 @@ Datasets information: Contains personal fitness tracker from thirty fitbit users
 
 Tools: R is able to clean, transform, analyze and visualize data all in one place. The datasets I've used are small enough to work in R, if not SQL would have been used.
 
-# Data Processing
+# Identifying Trends
+### How Often did Participants Use Their Fitbit?
+
+Here I wanted to know if the participants kept their fitbits on the entire month, all seconds of the day. Considering this could significantly change the data. There wasn't specific variable that asked participants if they'd worn the fitbit on a given date, so I had to get a little creative with figuring out how to determine this. The following code explains this process.
+
+image:
+  focal_point: Smart
+
+
+
