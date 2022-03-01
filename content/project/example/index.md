@@ -53,9 +53,11 @@ Tools: R is able to clean, transform, analyze and visualize data all in one plac
 
 Here I wanted to know if the participants kept their fitbits on the entire month, all seconds of the day. Considering this could significantly change the data. There wasn't specific variable that asked participants if they'd worn the fitbit on a given date, so I had to get a little creative with figuring out how to determine this. The following code explains this process.
 
-![screen reader text](trends.jpg "How Often did Participants Use Their Fitbit?")
+![screen reader text](trends.jpg "")
+
+UNDER THE ASSUMPTION that 1440 Sedentary Minutes = 24 Sedentary Hours, which is an entire day with little to no movement, 17 participants went atleast one day without using their fitbit. Unless somehow 17 participants went the entire day hardly moving in bed, I believe it's reasonable to assume these fitbits were not on for days when 1440 Sedentary Minutes were logged.
 
 Based on this assumption, I calculated some percentages based on the amount of days recorded.
 
-
+![screen reader text](graph1.jpg "")
 
