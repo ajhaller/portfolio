@@ -52,12 +52,8 @@ Tools: R is able to clean, transform, analyze and visualize data all in one plac
 ### How Often did Participants Use Their Fitbit?
 
 Here I wanted to know if the participants kept their fitbits on the entire month, all seconds of the day. Considering this could significantly change the data. There wasn't specific variable that asked participants if they'd worn the fitbit on a given date, so I had to get a little creative with figuring out how to determine this. The following code explains this process.
----
 
-image:
-  focal_point: Smart
-
----
+![screen reader text](trends.jpg "How Often did Participants Use Their Fitbit?")
 
 Based on this assumption, I calculated some percentages based on the amount of days recorded.
 
