@@ -68,11 +68,3 @@ About half of the participants kept their fitbit on the entire month of observat
 As shown, when accounting for the days the fitbits weren't used, the majority of the participants are Very Active. This makes sense, as people who buy fitbits are most likely interested in their health and fitness; therefore they'd tend to be more conscious about being active.
 
 ### What Trends Can We Identify in Participants' Habits?
-
-{{< gallery album="graphstwo" >}}
-
-The participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average.
-
-{{< gallery album="graphsthree" >}}
-
-All charts shows trends of more intensity, more calories burned and more steps during mid-day to evening, suggests a relationship between all three (which makes sense!)
