@@ -28,13 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: BellaBeat Case Study
-    tag: BellaBeat Case Study
+    tag: R
   - name: A Chance for Forgiveness
-    tag: A Chance for Forgiveness
+    tag: R
   - name: House Sales Case Study
-    tag: House Sales Case Study
+    tag: Python
   - name: Applied Data Science Capstone
-    tag: Applied Data Science Capstone
+    tag: Jupyter
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
