@@ -64,3 +64,15 @@ Based on this assumption, I calculated some percentages based on the amount of d
 About half of the participants kept their fitbit on the entire month of observation. A quarter did not use their fitbit on one day. 12% did not use their fitbit between 1-7 days and 16% did not use their fitbit for a week. However, these days where the fitbit was unused, are still being counted as Sedentary minutes, skewing our data to show that the majority of these fitbit participants don't move as much as they actually do when wearing the fitbit. Let's see what happens when we take these unused fitbit days out.
 
 ![screen reader text](Intensity.jpg "")
+
+As shown, when accounting for the days the fitbits weren't used, the majority of the participants are Very Active. This makes sense, as people who buy fitbits are most likely interested in their health and fitness; therefore they'd tend to be more conscious about being active.
+
+### What Trends Can We Identify in Participants' Habits?
+
+{{< gallery album="graphstwo" >}}
+
+The participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average.
+
+{{< gallery album="graphsthree" >}}
+
+All charts shows trends of more intensity, more calories burned and more steps during mid-day to evening, suggests a relationship between all three (which makes sense!)
