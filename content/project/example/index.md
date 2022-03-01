@@ -11,6 +11,10 @@ external_link: ""
 image:
   caption: Photo by gustavofrazao - Fotolia
   focal_point: Smart
+  
+gallery_item:
+- album: graphsone
+  image: graph1.jpg
 
 links:
 - icon: github
