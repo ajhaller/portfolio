@@ -38,12 +38,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Introduction
+## Introduction
 
 We all know that forgiving someone in particular situations is sometimes easier said than done. Whether this is an easy or difficult choice usually depends on several factors. Who are you forgiving? What did they do? Can it be fixed, or is the damage done beyond repair? This project focuses on the factor I've called Percieved Emotional Damage (PED), which is described as how much the person who's granting forgiveness, feels they've been hurt emotionally by the person who asks for forgiveness.
 
 
-# Hypotheses
+## Hypotheses
 
 In this experiment I asked, "How likely is a person to forgive someone else given how much perceived emotional damage was done to them?". I hypothesized 4 hypotheses: 
 
@@ -55,7 +55,7 @@ In this experiment I asked, "How likely is a person to forgive someone else give
 
 **4) I hypothesize that people who got the “Mediocre” scenario will be less likely to grant forgiveness than those who got the “Minimal” scenario.**
 
-# Method
+## Method
 
 The explanatory factor was Percieved Emotional Damage, that had three levels, and the response was the likelihood of Forgiveness. To test my hypotheses, I created 3 scenarios based on the amount of Percieved Emotional Damage I wanted to invoke in the participants. All of the scenarios included the same story as follows:
 
@@ -73,7 +73,7 @@ The minimal PED is meant to invoke a small amount of PED, the medicore PED is me
 
 The participants, the experimental units, were randomly assigned one of the 3 scenarios to read and all were asked the same question at the end.
 
-# Data Exploration
+## Data Exploration
 
 In evaluating the results of the experiment, I started out with some data exploration.
 
@@ -83,7 +83,7 @@ The visualization shows that as the Percieved Emotional Damage decreases (from m
 
 Since the conditions for an ANOVA are met, I will proceed with a one-way ANOVA analysis.
 
-# Results
+## Results
 
 ![screen reader text](anova.jpg "")
 
@@ -107,7 +107,7 @@ I am 95% confident that the true mean difference in between the maximal scenario
 
 I am 95% confident that the true mean difference in between the minimal scenario and medicore scenario is between .410 and 1.34. The difference between the likelihood of Forgiveness in the minimal scenario and mediocre scenario is .86 times the size of the typical within-group deviations in the likelihood of Forgiveness. This is a large effect size. Based on Fisher’s LSD there are statistically significant differences between likelihood of forgiveness in the minimal scenario and the mediocre scenario.
 
-# Conclusion
+## Conclusion
 
 ### Findings
 
