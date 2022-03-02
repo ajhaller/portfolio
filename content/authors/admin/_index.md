@@ -76,4 +76,4 @@ Currently aiding Smith College Professors in socio-psychological research and co
 
 Looking forward to data science / data analyst real-world opportunities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
