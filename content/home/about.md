@@ -20,7 +20,7 @@ title: Biography
 author: admin
 
 header:
-  image: "header.jpg"
+  image: "header.png"
   caption: "Image credit: Great Learning Team"
   
 ---
