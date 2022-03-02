@@ -50,6 +50,34 @@ experience:
         * Provided guidance to explore a variety of ways to create and analyze data visualizations using R, Tableau and Github.
         * Offered one-on-one tutoring to any student for all Statistical and Data Science courses and subjects.
        
+       
+  - title: Research Assistant
+    company: Smith College
+    company_url: 'https://www.smith.edu/'
+    company_logo: smith
+    location: Northampton, MA
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Member of research lab for Professor Dr. Nnamdi Pole
+        * Provided insight into survey questions regarding the effects of COVID-19 on college students at Smith College
+        
+        
+  - title: Survey Interviewer
+    company: Smith College
+    company_url: 'https://www.smith.edu/'
+    company_logo: smith
+    location: Northampton, MA
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Surveyed survey participants across the U.S. concerning the problems impacting our nation, states and local communities.
+        * Manually inputted data collected from participants surveyed while ensuring an easier data cleaning process
+        
 design:
   columns: '2'
 ---
