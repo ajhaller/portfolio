@@ -66,12 +66,12 @@ experience:
         
         
   - title: Survey Interviewer
-    company: Smith College
-    company_url: 'https://www.smith.edu/'
-    company_logo: smith
-    location: Northampton, MA
-    date_start: '2021-08-01'
-    date_end: ''
+    company: Luce Research
+    company_url: 'https://www.luceresearch.com/'
+    company_logo: LuceLogoBox
+    location: Colorado Springs, Colorado
+    date_start: '2020-08-01'
+    date_end: '2021-01-01'
     description: |2-
         Responsibilities include:
         
