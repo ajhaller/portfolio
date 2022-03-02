@@ -1,7 +1,7 @@
 ---
 title: BellaBeat Case Study
 summary: New and Upcoming Business in Women's Health
-tags: R
+tags: 
 - BellaBeat Case Study
 date: "2022-03-01T00:00:00Z"
 
