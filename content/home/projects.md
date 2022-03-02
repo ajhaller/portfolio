@@ -27,13 +27,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: BellaBeat Case Study
+  - name: R Projects
     tag: R
-  - name: A Chance for Forgiveness
-    tag: R
-  - name: House Sales Case Study
+  - name: Python Projects
     tag: Python
-  - name: Applied Data Science Capstone
+  - name: Jupyter Notebooks
     tag: Jupyter
 
 design:
