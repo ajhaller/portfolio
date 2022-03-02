@@ -4,7 +4,7 @@
 title: "A Chance of Forgiveness"
 summary: "An Independent Research Experiment"
 authors: []
-tags: "R"
+tags: R
 categories: []
 date: 2022-03-01T19:01:36-05:00
 
