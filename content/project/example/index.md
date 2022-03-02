@@ -1,7 +1,7 @@
 ---
 title: BellaBeat Case Study
 summary: New and Upcoming Business in Women's Health
-tags:
+tags: R
 - BellaBeat Case Study
 date: "2022-03-01T00:00:00Z"
 
@@ -69,4 +69,3 @@ As shown, when accounting for the days the fitbits weren't used, the majority of
 
 ### What Trends Can We Identify in Participants' Habits?
 
-blah
