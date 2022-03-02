@@ -70,6 +70,7 @@ highlight_name: true
 header:
   image: "header.jpg"
   caption: "Image credit: Great Learning Team"
+  
 ---
 
 High School Diploma as Valedictorian and Associate's degree from Houston Community College with Highest Honors, earned both in 2019. Current Senior student at Smith College double-majoring in Statistical & Data Sciences and Psychology, where I am a Statistical & Data Sciences Tutor for 2,600 students; earner of the Google Data Analytics Certification, the IBM Data Analyst Certification, and IBM Data Science Certification
