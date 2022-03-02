@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
-summary: ""
+title: "A Chance of Forgiveness"
+summary: "An Independent Research Experiment"
 authors: []
 tags: []
 categories: []
@@ -15,9 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+  caption: "Photo by PeopleImages"
+  focal_point: Smart
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
