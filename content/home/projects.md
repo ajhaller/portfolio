@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: R Projects
-    tag: R
+    tag: 'R'
   - name: Python Projects
-    tag: Python
+    tag: 'Python'
   - name: Jupyter Notebooks
-    tag: Jupyter
+    tag: 'Jupyter'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
