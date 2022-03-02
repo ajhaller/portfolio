@@ -1,8 +1,7 @@
 ---
-title: BellaBeat Case Study
-summary: New and Upcoming Business in Women's Health
+title: "BellaBeat Case Study"
+summary: "New and Upcoming Business in Women's Health"
 tags: "R"
-- BellaBeat Case Study
 date: "2022-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
