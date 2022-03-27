@@ -68,7 +68,7 @@ As shown, when accounting for the days the fitbits weren't used, the majority of
 
 ### What Trends Can We Identify in Participants' Habits?
 
-{{< gallery album="graphsthree" >}}
+{{< gallery album="graphstwo" >}}
 
 These participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average.
 
