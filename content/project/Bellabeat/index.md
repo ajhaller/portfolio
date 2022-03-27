@@ -68,3 +68,4 @@ As shown, when accounting for the days the fitbits weren't used, the majority of
 
 ### What Trends Can We Identify in Participants' Habits?
 
+{{< gallery album="graphstwo" >}}
