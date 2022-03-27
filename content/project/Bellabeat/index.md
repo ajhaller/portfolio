@@ -89,3 +89,32 @@ There's a statistically significant association between day of the week and hour
 ### Is There a Relationship Between Intensity Type of Participant and Average Amount of Sleep?
 
 ![screen reader text](type.jpg "")
+
+Based on the participant intensity categories, there doesn't seem to be a relationship between Intensity and Average hours of sleep. So regardless of activity, participants seem to be getting the same amount of sleep on average.
+
+# Proposal For Bellabeat based on Analysis
+**Alot of information was just shown. Let's sum up the main points of the analysis before giving recommendations:**
+
+* 75% of fitbit participants wore their fitbit consistently
+* The majority of participants are Very Active
+* These participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average
+* There are trends of more intensity, more calories burned and more steps during mid-day to evening times
+* There's a significant relationship between day of the week and average hours of sleep, where mid-week show less sleep; however, there doesn't seem to be a relationship between Intensity and Average hours of sleep.
+
+![screen reader text](woman.jpg "")
+
+**Here's some recommendations based on these insights:**
+
+**Suggested Product to Market:**
+
+Bellabeat's product, Time, is the product most similar to the fitbit. Therefore, I'd recommend applying these findings to marketing strategies for Time.
+
+**Customer Base:**
+
+Bellabeat should target their marketing strategy towards very active women. People who are very active tend to invest in high-tech health-focused products like Time. It's important to note that the fitbit data did not provide the gender of participants. This is a limitation of the data, however, it's safe to assume the data can be generalized to people in general. Additonal data and further analysis is needed for gender specific conclusions.
+
+**Tips to Improve Sales:**
+
+Bellabeat should emphasize that Time includes the Bellabeat app which tracks health data related to their sleep schedules. In the fitbit data, the analysis showed people are getting less sleep during mid-week. Therefore, Bellabeat should highlight that Bellabeat can help users get consistent average hours of sleep throughout the week, whether it's the weekend or Wednesday! Advertise Bellabeat's commitment to help users better understand their current sleep habits and make healthy decisions.
+
+**Thank you for your interest in my case study!**
