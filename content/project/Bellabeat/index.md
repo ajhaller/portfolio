@@ -12,7 +12,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
+# - icon: github
   icon_pack: fab
   name: Follow
   url: https://github.com/ajhaller
@@ -26,7 +26,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: " "
 ---
 
 # BELLABEAT CASE STUDY
