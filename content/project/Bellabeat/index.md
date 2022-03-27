@@ -81,4 +81,10 @@ All charts shows trends of more intensity, more calories burned and more steps d
 ![screen reader text](sleep.jpg "")
 ![screen reader text](sleep_days.jpg "")
 
+{{ $asset := resources.Get "/sleep_days.jpg" }}
+{{ $img := $asset.Fit "600x400" }}
+<figure class="image is-3by2">
+  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
+</figure>
+
 There's a statistically significant association between day of the week and hours of sleep for the participants. The trend shows the participants getting the most sleep on Sundays and less in the middle of the week.
