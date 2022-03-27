@@ -72,6 +72,13 @@ As shown, when accounting for the days the fitbits weren't used, the majority of
 
 These participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average.
 
-{{< gallery album="graphsthree" >}}
+
 
 All charts shows trends of more intensity, more calories burned and more steps during mid-day to evening, suggests a relationship between all three (which makes sense!)
+
+### Could Date Reflect Changes in Sleep Trends?
+
+![screen reader text](sleep.jpg "")
+![screen reader text](sleep_days.jpg "")
+
+There's a statistically significant association between day of the week and hours of sleep for the participants. The trend shows the participants getting the most sleep on Sundays and less in the middle of the week.
