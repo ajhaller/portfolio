@@ -72,6 +72,9 @@ As shown, when accounting for the days the fitbits weren't used, the majority of
 
 These participants tend to lose 1500 to 2500 calories and take 5000 to 10000 steps daily on average.
 
+![screen reader text](cals.jpg "")
+![screen reader text](intensity2.jpg "")
+![screen reader text](steps.jpg "")
 
 
 All charts shows trends of more intensity, more calories burned and more steps during mid-day to evening, suggests a relationship between all three (which makes sense!)
@@ -81,10 +84,8 @@ All charts shows trends of more intensity, more calories burned and more steps d
 ![screen reader text](sleep.jpg "")
 ![screen reader text](sleep_days.jpg "")
 
-{{ $asset := resources.Get "/test.jpg" }}
-{{ $img := $asset.Fit "600x400" }}
-<figure class="image is-3by2">
-  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
-</figure>
-
 There's a statistically significant association between day of the week and hours of sleep for the participants. The trend shows the participants getting the most sleep on Sundays and less in the middle of the week.
+
+### Is There a Relationship Between Intensity Type of Participant and Average Amount of Sleep?
+
+![screen reader text](type.jpg "")
