@@ -81,7 +81,7 @@ All charts shows trends of more intensity, more calories burned and more steps d
 ![screen reader text](sleep.jpg "")
 ![screen reader text](sleep_days.jpg "")
 
-{{ $asset := resources.Get "/sleep_days.jpg" }}
+{{ $asset := resources.Get "/test.jpg" }}
 {{ $img := $asset.Fit "600x400" }}
 <figure class="image is-3by2">
   <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
