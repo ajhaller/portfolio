@@ -7,7 +7,7 @@ widget: about
 active: true
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 20
@@ -19,8 +19,8 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-header:
-  image: "header.png"
-  caption: "Image credit: Great Learning Team"
+# header:
+#   image: "header.png"
+#   caption: "Image credit: Great Learning Team"
   
 ---
