@@ -40,10 +40,6 @@ slides: ""
 ---
 ## Introduction
 
-<div style= "float:right;position: relative; top: -80px;">
-![screen reader text](pew.png "")
-</div>
-
 As Americans begin to accept a “new normal” in the face of what’s now a two-year pandemic, some Americans wonder if initial greater concern for the virus may have prevented its extended stay. Pew Research questioned Americans’ opinions about COVID19 in its American Trend Wave Panel, published March 26, 2020, that may shed light on the matter. 
 
-In this study, Pew Research sought to compare the rise of concern in the COVID19 pandemic between March 10-16th to March 19-24th. By March 24, 2020, the daily deaths toll was on the rise with 2,203 deaths per day. In one of Pew Research’s visualizations of the rising concern, the results show an increase in the percentage of Americans concerned about all of the topics asked: The U.S. economy, the Health of the U.S. population as a whole, (the participants’) Personal Financial Situation, and (the participants’) personal health. However, despite the rise in concern between March 16th and March 24th, The U.S. Economy was still the top concern of Americans’ amongst the covid19 pandemic. By March 24, 2020, 88% of Americans were concerned for the economy, while only 66% were concerned for the health of the population as a whole. The question begs:
+In this study, Pew Research sought to compare the rise of concern in the COVID19 pandemic between March 10-16th to March 19-24th. ![screen reader text](pew.png "") By March 24, 2020, the daily deaths toll was on the rise with 2,203 deaths per day. In one of Pew Research’s visualizations of the rising concern, the results show an increase in the percentage of Americans concerned about all of the topics asked: The U.S. economy, the Health of the U.S. population as a whole, (the participants’) Personal Financial Situation, and (the participants’) personal health. However, despite the rise in concern between March 16th and March 24th, The U.S. Economy was still the top concern of Americans’ amongst the covid19 pandemic. By March 24, 2020, 88% of Americans were concerned for the economy, while only 66% were concerned for the health of the population as a whole. The question begs:
